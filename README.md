@@ -1,6 +1,6 @@
 # 時光大盜殿堂
 
-古物古玩展示網站，關聯 [蝦皮賣場](https://shopee.tw/han66713?categoryId=100639)。
+古物古玩展示網站，關聯賣場(https://shopee.tw/han66713?categoryId=100639)。
 
 ## 網址
 
